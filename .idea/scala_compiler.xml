@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="flinkHotitem">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\ideaflinkHotItem\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="flinkHotItemanaly">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\ideaflinkHotItem\flinkHotItemanaly\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="HotPageAnaly">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\ideaflinkHotItem\HotPageAnaly\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 4" modules="ADViewAanlysis">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\ideaflinkHotItem\ADViewAanlysis\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 5" modules="FailAnalysis">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\ideaflinkHotItem\FailAnalysis\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 6" modules="PayAndOut">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\ideaflinkHotItem\PayAndOut\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>

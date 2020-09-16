@@ -1,0 +1,6 @@
+# Project exclude paths
+/ADViewAanlysis/target/
+/FailAnalysis/target/
+/flinkHotItemanaly/target/
+/HotPageAnaly/target/
+/PayAndOut/target/
